@@ -1,0 +1,1 @@
+web: gunicorn SalaryPrediction_App:app
